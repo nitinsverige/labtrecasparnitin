@@ -5,11 +5,6 @@ sudo: false
 cache: packages
 warnings_are_errors: true
 
-as:
- - linus
- - osx
- 
-
 r: 
  - oldrel
  - release
