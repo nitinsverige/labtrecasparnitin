@@ -8,3 +8,4 @@ Maintainer: Cas Nit <cas@nit.com>
 Description: Euclidean & Dijkstra
 License: What license is it under?
 RoxygenNote: 6.1.0
+Encoding: UTF-8
