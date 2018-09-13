@@ -1,0 +1,10 @@
+Package: labtrecasparnitin
+Type: Package
+Title: Euclidean & Dijkstra
+Version: 1.0
+Date: 2018-09-13
+Author: Cas Nit <cas@nit.com>
+Maintainer: Cas Nit <cas@nit.com>
+Description: Euclidean & Dijkstra
+License: What license is it under?
+RoxygenNote: 6.1.0
