@@ -9,4 +9,8 @@ Description: Euclidean & Dijkstra
 License: What license is it under?
 RoxygenNote: 6.1.0
 Encoding: UTF-8
+<<<<<<< HEAD
 Suggests: testthat
+=======
+Suggests: testthat
+>>>>>>> 70bdb29e1f820610e61cef92472570e1571dc784
